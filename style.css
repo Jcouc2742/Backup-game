@@ -250,12 +250,13 @@
   }
   
   .options button.active-option {
-    background-color: rgb(204, 203, 151);
+    background-color: rgb(244, 216, 216);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border: #635f5f;
     border-radius: 8px;
     border-width: 3px;
     font-weight: bold;
+    font-size: 90%;
   }
   
   @keyframes shake {
