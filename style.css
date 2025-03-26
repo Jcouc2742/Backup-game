@@ -96,10 +96,10 @@
   .game-button {
     padding: 1rem;
     font-size: 1.2rem;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     cursor: pointer;
-    border: 1px solid #ddd;
-    background-color: #e9ecef;
+    border: 1px solid #dddddd52;
+    background-color: #9db9d4e2;
     color: rgb(66, 66, 66);
     border-radius: 10px;
     aspect-ratio: 1;
