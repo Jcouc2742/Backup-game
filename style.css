@@ -250,7 +250,7 @@
   }
   
   .options button.active-option {
-    background-color: white;
+    background-color: rgb(138, 33, 33);
   }
   
   @keyframes shake {
