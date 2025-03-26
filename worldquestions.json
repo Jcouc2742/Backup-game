@@ -8,22 +8,22 @@
     "correct_answer_part2": "Basketball"
   },
   "03-27": {
-    "question_part1": "Which of these are NOT types of balls used in sports? (Eliminate them)",
+    "question_part1": "Which South American Country...",
     "options": [
-      "Shuttlecock",
-      "Cricket ball",
-      "Volleyball",
-      "Puck",
-      "Bocce ball",
-      "Javelin",
-      "Tennis ball",
-      "Discus",
-      "Squash ball"
+      "Ecuador",
+      "Suriname",
+      "French Guyana",
+      "Brazil",
+      "Guatemala",
+      "Tonga",
+      "Cuba",
+      "Mexico",
+      "Hawaii"
     ],
-    "incorrect_answers": ["Shuttlecock", "Puck", "Javelin", "Discus", "Squash ball"],
-    "correct_answers": ["Cricket ball", "Volleyball", "Bocce ball", "Tennis ball"],
-    "question_part2": "Which of the remaining balls is the heaviest?",
-    "correct_answer_part2": "Bocce ball"
+    "incorrect_answers": ["Guatemala", "Hawaii", "Tonga", "Cuba", "Mexico"],
+    "correct_answers": ["Ecuador", "Suriname", "Brazil", "French Guyana"],
+    "question_part2": "...do the Galapagos Islands belong to?",
+    "correct_answer_part2": "Ecuador"
   },
   "03-28": {
     "question_part1": "Which of these sports do NOT have a World Cup competition? (Eliminate them)",

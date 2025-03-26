@@ -8,22 +8,22 @@
     "correct_answer_part2": "Basketball"
   },
   "03-27": {
-    "question_part1": "Which of these are NOT types of balls used in sports? (Eliminate them)",
+    "question_part1": "Which previous Premier League winner...",
     "options": [
-      "Shuttlecock",
-      "Cricket ball",
-      "Volleyball",
-      "Puck",
-      "Bocce ball",
-      "Javelin",
-      "Tennis ball",
-      "Discus",
-      "Squash ball"
+      "Blackburn Rovers",
+      "Leicester City",
+      "Manchester United",
+      "Leeds United",
+      "Tottenham Hotspur",
+      "Newcastle United",
+      "Bolton Wanderers",
+      "Everton",
+      "Chelsea"
     ],
-    "incorrect_answers": ["Shuttlecock", "Puck", "Javelin", "Discus", "Squash ball"],
-    "correct_answers": ["Cricket ball", "Volleyball", "Bocce ball", "Tennis ball"],
-    "question_part2": "Which of the remaining balls is the heaviest?",
-    "correct_answer_part2": "Bocce ball"
+    "incorrect_answers": ["Leeds United","Tottenham Hotspur","Newcastle United","Bolton Wanderers","Everton"],
+    "correct_answers": ["Leicester City", "Blackburn Rovers", "Manchester United", "Chelsea"],
+    "question_part2": "...has the ground with the smallest capacity?",
+    "correct_answer_part2": "Blackburn Rovers"
   },
   "03-28": {
     "question_part1": "Which of these sports do NOT have a World Cup competition? (Eliminate them)",
