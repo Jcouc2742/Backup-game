@@ -96,10 +96,10 @@
   .game-button {
     padding: 1rem;
     font-size: 1.2rem;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     cursor: pointer;
-    border: 1px solid #dddddd52;
-    background-color: #9db9d4e2;
+    border: 1px solid #ddd;
+    background-color: #e9ecef;
     color: rgb(66, 66, 66);
     border-radius: 10px;
     aspect-ratio: 1;
@@ -114,6 +114,7 @@
   .game-button i {
     font-size: 2rem;
     margin-bottom: 0.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
   
   .game-button:hover {
