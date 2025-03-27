@@ -157,7 +157,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // Function to load quiz data
     async function loadQuizData() {
       try {
-        const response = await fetch("questions.json")
+        const response = await fetch("worldquestions.json")
         return await response.json()
       } catch (error) {
         console.error("Error loading questions:", error)
