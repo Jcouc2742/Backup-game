@@ -21,16 +21,6 @@
 
   <div id="game-container">
       <div id="quiz-screen">
-          <div class="game-status">
-              <div class="guesses-container">
-                  <span>Guesses left: </span>
-                  <span id="guesses-left">5</span>
-              </div>
-              <div class="score-container">
-                  <span>Score: </span>
-                  <span id="score-display">0</span>
-              </div>
-          </div>
           
           <div id="quiz-container">
               <h3 id="question-part1"></h3>
@@ -42,7 +32,16 @@
               </div>
               <div id="options-container"></div>
           </div>
-          
+          <div class="game-status">
+            <div class="guesses-container">
+                <span>Guesses left: </span>
+                <span id="guesses-left">5</span>
+            </div>
+            <div class="score-container">
+                <span>Score: </span>
+                <span id="score-display">0</span>
+            </div>
+        </div>
           <div id="archive-container" class="collapsible-container">
               <button id="archive-toggle" class="collapsible-toggle">
                   <span>Quiz Archive</span>
