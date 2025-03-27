@@ -464,11 +464,11 @@
     background-color: rgb(65, 25, 158);
   }
   .share-btn {
-    background-color: rgb(80, 31, 194);
+    background-color: rgb(186, 178, 206);
     color: white;
     border: none;
     padding: 1rem 1.5rem;
-    font-size: 1.2rem;
+    font-size: 0.9rem;
     font-weight: bold;
     border-radius: 5px;
     cursor: pointer;
