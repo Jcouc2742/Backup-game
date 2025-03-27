@@ -463,6 +463,22 @@
   .completion-btn:hover {
     background-color: rgb(65, 25, 158);
   }
+  .share-btn {
+    background-color: rgb(80, 31, 194);
+    color: white;
+    border: none;
+    padding: 1rem 1.5rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    flex: 1;
+  }
+  
+  .share-btn:hover {
+    background-color: rgb(65, 25, 158);
+  }
   
   .close-btn {
     position: absolute;
