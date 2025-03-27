@@ -57,7 +57,9 @@ document.addEventListener("DOMContentLoaded", () => {
     completionBtn.addEventListener("click", () => {
       window.location.href = "../index.html"
     })
-
+    my-results.addEventListener("click", () =>{
+      gameCompletedPopup.classList.remove("hidden")
+    })
   
     // Get current date in format MM-DD
     const today = new Date()
