@@ -644,4 +644,23 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   })
   
+  document.getElementById("shareButton").addEventListener("click", async () => {
+    const score = document.getElementById("final-score").textContent; // Replace with how you get the player's score
+    const gameUrl = "https://impossiquiz.com/ball.html"; // Change this to your game URL
   
+    const shareData = {
+        text: `I scored ${score} points! Can you beat me? Try it here:`,
+        url: gameUrl
+    };
+  
+    if (navigator.share) {
+        try {
+            await navigator.share(shareData);
+            console.log("Game shared successfully");
+        } catch (error) {
+            console.error("Error sharing:", error);
+        }
+    } else {
+        alert("Sharing not supported on this device.");
+    }
+  });
