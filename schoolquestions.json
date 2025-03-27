@@ -1,11 +1,6 @@
 {
-    "efault": {
-      "question_part1": "Which of these sports do NOT use a ball? (Eliminate them)",
-      "options": ["Tennis", "Swimming", "Boxing", "Soccer", "Archery", "Basketball", "Fencing", "Golf", "Hockey"],
-      "incorrect_answers": ["Swimming", "Boxing", "Archery", "Fencing", "Hockey"],
-      "correct_answers": ["Tennis", "Soccer", "Basketball", "Golf"],
-      "question_part2": "Which of the remaining sports uses the largest ball?",
-      "correct_answer_part2": "Basketball"
+    "default": {
+      
     },
     "03-26": {
       "question_part1": "Which of these are NOT types of balls used in sports? (Eliminate them)",
