@@ -81,7 +81,8 @@
     max-width: 800px;
     margin: 0 auto;
     padding: 1rem;
-  font-size: 12px;
+    font-size: 12px;
+    aspect-ratio: 1;
   }
   
   .game-grid {
