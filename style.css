@@ -777,42 +777,8 @@
     background-color: rgb(6, 108, 22);
   }
   
-  .ball-page .score-container {
-    color: rgb(31, 120, 194);
-  }
-  
-  .ball-page #question-part2-container {
-    border-left: 4px solid rgb(31, 120, 194);
-  }
-  
-  .ball-page .completion-message,
-  .ball-page .stat-value {
-    color: rgb(31, 120, 194);
-  }
-  
-  .ball-page .completion-btn,
-  .ball-page #popup-btn,
-  .ball-page #how-to-play-btn,
-  .ball-page #already-played-btn {
-    background-color: rgb(31, 120, 194);
-  }
-  
-  .ball-page .completion-btn:hover,
-  .ball-page #popup-btn:hover,
-  .ball-page #how-to-play-btn:hover,
-  .ball-page #already-played-btn:hover {
-    background-color: rgb(25, 70, 155);
-    color: #e9ecef;
-  }
-  
-  .ball-page .archive-item.today {
-    background-color: rgb(31, 120, 194);
-  }
   
   /* Ball game specific styles */
-  .ball-page {
-    background-color: #f0f7ff;
-  }
   
   .world-page h1 {
     background-color: rgb(12, 152, 33);
@@ -821,37 +787,6 @@
     background-color: rgb(31, 120, 194);
   }
   
-  .ball-page .score-container {
-    color: rgb(31, 120, 194);
-  }
-  
-  .ball-page #question-part2-container {
-    border-left: 4px solid rgb(31, 120, 194);
-  }
-  
-  .ball-page .completion-message,
-  .ball-page .stat-value {
-    color: rgb(31, 120, 194);
-  }
-  
-  .ball-page .completion-btn,
-  .ball-page #popup-btn,
-  .ball-page #how-to-play-btn,
-  .ball-page #already-played-btn {
-    background-color: rgb(31, 120, 194);
-  }
-  
-  .ball-page .completion-btn:hover,
-  .ball-page #popup-btn:hover,
-  .ball-page #how-to-play-btn:hover,
-  .ball-page #already-played-btn:hover {
-    background-color: rgb(25, 95, 155);
-  }
-  
-  .ball-page .archive-item.today {
-    background-color: rgb(31, 120, 194);
-  }
-
   .tune-page h1 {
     background-color: rgb(194, 31, 142);
   }
