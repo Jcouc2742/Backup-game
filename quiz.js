@@ -645,7 +645,7 @@ document.addEventListener("DOMContentLoaded", () => {
 })
 
 document.getElementById("shareButton").addEventListener("click", async () => {
-  const score = "final-score"; // Replace with how you get the player's score
+  const score = document.getElementById("final-score").textContent; // Replace with how you get the player's score
   const gameUrl = "https://impossiquiz.com/quiz.html"; // Change this to your game URL
 
   const shareData = {
